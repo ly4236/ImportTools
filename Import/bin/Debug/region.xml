@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<REGIONCODE>
+  <!--<ROW>
+    <CODE>130500</CODE>
+    <TEXT>河北邢台市</TEXT>
+  </ROW>-->
+
+  <ROW>
+    <CODE>130501</CODE>
+    <TEXT>河北邢台市市辖区</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130502</CODE>
+    <TEXT>河北邢台市桥东区</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130503</CODE>
+    <TEXT>河北邢台市桥西区</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130521</CODE>
+    <TEXT>河北邢台县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130522</CODE>
+    <TEXT>河北临城县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130523</CODE>
+    <TEXT>河北内丘县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130524</CODE>
+    <TEXT>河北柏乡县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130525</CODE>
+    <TEXT>河北隆尧县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130526</CODE>
+    <TEXT>河北任县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130527</CODE>
+    <TEXT>河北南和县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130528</CODE>
+    <TEXT>河北宁晋县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130529</CODE>
+    <TEXT>河北巨鹿县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130530</CODE>
+    <TEXT>河北新河县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130531</CODE>
+    <TEXT>河北广宗县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130532</CODE>
+    <TEXT>河北平乡县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130533</CODE>
+    <TEXT>河北威县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130534</CODE>
+    <TEXT>河北清河县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130535</CODE>
+    <TEXT>河北临西县</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130540</CODE>
+    <TEXT>河北邢台市高开区</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130581</CODE>
+    <TEXT>河北南宫市</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130582</CODE>
+    <TEXT>河北沙河市</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130550</CODE>
+    <TEXT>河北邢台大曹庄</TEXT>
+  </ROW>
+
+  <ROW>
+    <CODE>130540</CODE>
+    <TEXT>河北邢台市高开区</TEXT>
+  </ROW>
+
+</REGIONCODE>
